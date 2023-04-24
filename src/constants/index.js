@@ -26,6 +26,7 @@ import {
     GES,
     bIAS,
     trtc,
+    f1,
   } from "../assets";
   
   export const navLinks = [
@@ -191,7 +192,7 @@ import {
       name: "Ankush",
       designation: "CFO",
       company: "Acme Co",
-      image: "./src/constants/photo/f1.jpeg",
+      image: f1,
     },
     {
       testimonial:
@@ -199,7 +200,7 @@ import {
       name: "Bicky",
       designation: "COO",
       company: "DEF Corp",
-      image: "./src/constants/photo/f1.jpeg",
+      image: f1,
     },
     {
       testimonial:
@@ -207,7 +208,7 @@ import {
       name: "Chetry",
       designation: "CTO",
       company: "456 Enterprises",
-      image: "./src/constants/photo/f1.jpeg",
+      image: f1,
     },
   ];
   

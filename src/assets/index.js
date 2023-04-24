@@ -28,6 +28,7 @@ import GES from "./company/GES.png";
 import tesla from "./company/tesla.png";
 import bIAS from "./company/bIAS.jpg";
 import trtc from "./company/trtc.jpg";
+import trtc from "./company/f1.jpeg";
 
 import carrent from "./carrent.png";
 import jobit from "./jobit.png";
@@ -65,4 +66,5 @@ export {
   GES,
   bIAS,
   trtc,
+  f1,
 };
